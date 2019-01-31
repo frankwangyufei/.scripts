@@ -7,6 +7,3 @@ raise an opened terminator, if no such opened window is found, open a new instan
 
 #### Dependencies
 wmctrl
-
-#### Note
-change `@pop-os` to whatever machine name you have
